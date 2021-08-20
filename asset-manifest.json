@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kanhaweb/react_upload.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/kanhaweb/react_upload.git/static/js/main.570b67e5.chunk.js",
+    "main.js.map": "/kanhaweb/react_upload.git/static/js/main.570b67e5.chunk.js.map",
+    "runtime-main.js": "/kanhaweb/react_upload.git/static/js/runtime-main.f0c845e6.js",
+    "runtime-main.js.map": "/kanhaweb/react_upload.git/static/js/runtime-main.f0c845e6.js.map",
+    "static/js/2.94bccc6d.chunk.js": "/kanhaweb/react_upload.git/static/js/2.94bccc6d.chunk.js",
+    "static/js/2.94bccc6d.chunk.js.map": "/kanhaweb/react_upload.git/static/js/2.94bccc6d.chunk.js.map",
+    "static/js/3.787e5303.chunk.js": "/kanhaweb/react_upload.git/static/js/3.787e5303.chunk.js",
+    "static/js/3.787e5303.chunk.js.map": "/kanhaweb/react_upload.git/static/js/3.787e5303.chunk.js.map",
+    "index.html": "/kanhaweb/react_upload.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/kanhaweb/react_upload.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.94bccc6d.chunk.js.LICENSE.txt": "/kanhaweb/react_upload.git/static/js/2.94bccc6d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kanhaweb/react_upload.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0c845e6.js",
+    "static/js/2.94bccc6d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.570b67e5.chunk.js"
+  ]
+}
